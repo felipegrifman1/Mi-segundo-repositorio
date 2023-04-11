@@ -1,2 +1,1 @@
-# Mi-segundo-repositorio
-Este es un repositorio de prueba
+Felipe Grifman, este es mi segunda prueba de un clon de repositorio
